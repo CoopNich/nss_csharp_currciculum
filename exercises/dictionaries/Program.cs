@@ -36,8 +36,10 @@ namespace dictionaries
                     $"The definition of \"{word.Key}\" is \"{word.Value}\"."
                 );
             }
-{
-}
+
+
+
+            
         }
     }
 }
